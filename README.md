@@ -15,5 +15,6 @@ Used conditional formatting to highlight positive change in green and negative c
 Using info pulled above also output the stock with the greatest increase in percent change, greatest decrease in percent change and the greatest total volume.
 
 Included Screenshots of 2014-2016 results along with VBA script in 2 formats
+
   1- .txt file for easy copy paste
   2- .bas (saved as standard module  using project explorer in Visual Basics Editor
